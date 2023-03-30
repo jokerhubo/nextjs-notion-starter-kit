@@ -2,14 +2,14 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'd0121c1709ca400fb7f524bf14722afd',
+  rootNotionPageId: 'Bo-Hu-d0121c1709ca400fb7f524bf14722afd',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: '胡波的个人小站',
   domain: 'https://hubo1991.notion.site/Bo-Hu-d0121c1709ca400fb7f524bf14722afd',
   author: '胡波',
 
